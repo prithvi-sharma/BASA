@@ -6,7 +6,7 @@ The banking application is a voice automated application for basic facilities li
 
 The application was a challenge to me to test how wide is the spread of python language and can I make an application with just python from backend to cloud to server to visuals.
 
-<img src="https://github.com/prithvi-sharma/BASA/blob/master/Video/Plan.gif" width=50%>
+<img src="https://github.com/prithvi-sharma/BASA/blob/master/Video/Plan.gif" width=100%>
 
 _______________________________________________________________________________________________________________
 *UPDATE*:  I uploaded a presentation explanation of the same. Link -> https://youtu.be/xbqwkHTbFbg
