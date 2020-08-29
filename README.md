@@ -1,5 +1,8 @@
 # BASA
-BASA - Banking App for Speciall Abled
+<img src="https://github.com/prithvi-sharma/BASA/blob/master/Images/Main.jpg">
+<hr>
+
+# BASA - Banking App for Speciall Abled
 
 The banking application is a voice automated application for basic facilities like information about current balance, last debit or credit transaction and to do actual transaction within the app.
 
