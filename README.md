@@ -17,4 +17,4 @@ The application was a challenge to me to test how wide is the spread of python l
 Link -> https://youtu.be/xbqwkHTbFbg
 <hr>
 
-# Thanks for reading
+# Thanks for reading!
