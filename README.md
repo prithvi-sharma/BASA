@@ -12,9 +12,9 @@ The application was a challenge to me to test how wide is the spread of python l
 <img src="https://github.com/prithvi-sharma/BASA/blob/master/Video/Plan.gif" width=100%>
 <hr>
 
-# Demonstration video
+<!--# Demonstration video
 
 Link -> https://youtu.be/xbqwkHTbFbg
 <hr>
-
+-->
 # Thanks for reading!
